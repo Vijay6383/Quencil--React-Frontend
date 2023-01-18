@@ -1,0 +1,28 @@
+.section5{
+    background-color: #030D42;
+    
+}
+
+.section5 h1{
+    margin: 0 0;
+    padding-top: 40px;
+    padding-left: 60px;
+    color: white;
+}
+
+.partners-container{
+    padding: 30px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.partners-container .partners{
+    margin: 30px 30px;
+    width: 150px;
+    height: 100px;
+    background-color: white;
+    border-radius: 15px;
+}

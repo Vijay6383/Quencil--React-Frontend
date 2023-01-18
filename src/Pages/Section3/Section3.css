@@ -1,0 +1,27 @@
+.section3{
+    background-color: #030D42;
+    color: white;
+}
+
+.section3 .container3{
+    padding: 20px;
+}
+
+.section3 .container3 .components-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 80%;
+    align-items: center;
+    padding-left: 90px;
+    padding-top: 50px;
+}
+
+.section3 > .container3 > h1{
+    padding-left: 20px;
+}
+
+.section3 > .container3 > p{
+    padding-left: 20px;
+}

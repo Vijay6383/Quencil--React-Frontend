@@ -1,0 +1,44 @@
+
+.section1{
+    position: relative;
+}
+
+.section1 .bgimage{
+    width: 1400px;
+    position: absolute;
+}
+
+.section1 .container1{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    overflow-y: clip;
+    
+}
+
+.section1 .container1 .right-container{
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.right-container p{
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+
+.right-container button{
+    align-self: center;
+    border-radius: 28px;
+    border-width: 0;
+    background-color: #013a7e;
+    color: white;
+}
+
+.right-container button:hover{
+    cursor: pointer;
+    background-color: #225ea8;
+}

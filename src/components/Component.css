@@ -1,0 +1,28 @@
+.component-div1{
+    margin-left: 20px;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.component-div1 img{
+    border-radius: 10px;
+}
+
+.component-div2{
+    width: 200px;
+    height: 150px;
+}
+
+.component-div2 p{
+    font-size: small;
+    margin: 0 0;
+    padding-left: 5px;
+}
+
+.component-div2 .heading{
+    font-weight: 500;
+    font-size: large;
+    margin: 0 0;
+    padding-bottom: 20px;
+}
